@@ -12,11 +12,8 @@ console.log(chalk.red.bold`
 ██║     ██║ ╚████╔╝ ███████╗██║ ╚═╝ ██║     ╚████╔╝ ███████╗██║  ██║██║╚██████╗███████╗███████╗    ██║ ╚═╝ ██║███████╗██║  ██║╚██████╔╝███████╗██║  ██║
 ╚═╝     ╚═╝  ╚═══╝  ╚══════╝╚═╝     ╚═╝      ╚═══╝  ╚══════╝╚═╝  ╚═╝╚═╝ ╚═════╝╚══════╝╚══════╝    ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
 Thank you for using this script!
-- Created by NAT2K15
-- Discord: nat2k15
-- Github: https://github.com/nat2k15
-- Discord Server: https://discord.gg/RquDVTfDwu
-- Website: https://store.nat2k15.xyz\n\n` + chalk.yellow.bold `Starting the script...`);
+- Created by JAWIS
+- Website: http://thserver.cloud\n\n` + chalk.yellow.bold `Starting the script...`);
 
 main();
 
@@ -57,8 +54,6 @@ async function main() {
      ██║   ██╔══██║██╔══██║██║╚██╗██║██╔═██╗       ╚██╔╝  ██║   ██║██║   ██║
      ██║   ██║  ██║██║  ██║██║ ╚████║██║  ██╗       ██║   ╚██████╔╝╚██████╔╝
      ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝       ╚═╝    ╚═════╝  ╚═════╝ 
-    For using our vehicle merger. If you would like to support, join our discord.                                                                       
-    https://discord.gg/RquDVTfDwu
   `));
   await delay(1000);
 
